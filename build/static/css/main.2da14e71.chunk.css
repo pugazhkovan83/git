@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  background-color: #000;
+  width: 493px;
+  height: 484px;
+  margin: auto;
+}
+.innerContainer {
+  position: absolute;
+  width: 225px;
+  height: 340px;
+  overflow: hidden;
+  word-wrap: break-word;
+  margin: auto;
+  top: 100px;
+  left: 130px;
+  text-align: center;
+  white-space: pre-wrap;
+}
+td {
+  vertical-align: top;
+}
+/*# sourceMappingURL=main.2da14e71.chunk.css.map */
